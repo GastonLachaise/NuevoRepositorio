@@ -1,0 +1,8 @@
+C:\Users\gasto\OneDrive\Escritorio\Nueva\bin\Debug\Nueva.exe.config
+C:\Users\gasto\OneDrive\Escritorio\Nueva\bin\Debug\Nueva.exe
+C:\Users\gasto\OneDrive\Escritorio\Nueva\bin\Debug\Nueva.pdb
+C:\Users\gasto\OneDrive\Escritorio\Nueva\obj\Debug\Nueva.csproj.AssemblyReference.cache
+C:\Users\gasto\OneDrive\Escritorio\Nueva\obj\Debug\Nueva.csproj.SuggestedBindingRedirects.cache
+C:\Users\gasto\OneDrive\Escritorio\Nueva\obj\Debug\Nueva.csproj.CoreCompileInputs.cache
+C:\Users\gasto\OneDrive\Escritorio\Nueva\obj\Debug\Nueva.exe
+C:\Users\gasto\OneDrive\Escritorio\Nueva\obj\Debug\Nueva.pdb
